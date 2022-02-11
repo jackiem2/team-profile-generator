@@ -1,1 +1,1 @@
-# teamp-profile-generator
+# team-profile-generator
