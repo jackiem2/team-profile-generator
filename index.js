@@ -3,7 +3,7 @@ const fs = require('fs');
 const Engineer = require('./lib/Engineer.js');
 const Intern = require('./lib/Intern.js');
 const Manager = require('./lib/Manager.js');
-const generateEmployees = require('./src/template.js');
+const generateHTML = require('./src/template.js');
 
 
 employeesArray = [];
