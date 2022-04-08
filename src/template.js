@@ -1,4 +1,4 @@
-const generateEmployees = employees => {
+const generateHTML = teamArr => {
     const generateManager = manager => {
         return`
         
