@@ -32,6 +32,8 @@ This application was created to generate a team profile page by answering a prop
 - Run the application using 'node index.js'
 - Answer the questions prompted on the terminal
 
+![github-small]()
+
 ## Github Repository and Demo
 - Github : https://github.com/jackiem2/team-profile-generator
-- Demo : https://drive.google.com/file/d/12xO_MpXbDEmAclv565gfStDAqqXx71Xh/view
+- Demo : https://drive.google.com/file/d/1bh6ue_tOo1nyDQV_io01f8TzsnMwSfKI/view
