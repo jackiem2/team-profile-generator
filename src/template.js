@@ -1,8 +1,9 @@
-const generateHTML = teamArr => {
+const generateTemplate = teamArr => {
     const generateManager = manager => {
-        return`
+       return`
         
         
         `
     }
 }
+
